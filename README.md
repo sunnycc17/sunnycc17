@@ -50,6 +50,13 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnycc17&theme=github-compact&bg_color=00000000&hide_border=true" />
+</div>
+
+
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Made+with+Love%2C+Code+%26+Cuteness+%F0%9F%92%96;By+Sunny+the+Front-End+Fairy%F0%9F%A7%9A&center=true&width=500&height=30&color=BC7AF9">
 </p>
