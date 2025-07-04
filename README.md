@@ -22,29 +22,18 @@
 
 ---
 
-<!-- Custom style using <pre> for monospace & block formatting -->
-<pre>
+### 🌱 Currently Working On
+- 🪢 Building **JumpRopeWithSunny** — my fitness blog  
+- 🇸🇮 Learning Slovenian like a polyglot princess  
+- 🪄 Becoming a front-end fairy ✨  
 
-Currently Working On
----------------------
-▸ Building JumpRopeWithSunny — my fitness blog  
-▸ Learning Slovenian like a polyglot princess  
-▸ Becoming a front-end fairy ✨
+---
 
-
-Fun Facts
----------
-▸ Linux fangirl and terminal gremlin  
-▸ Cybersecurity & hacking explorer (white hat vibes only)  
-▸ Learning to build websites *and* bank accounts  
-▸ Rock music fuels my code sessions
-
-</pre>
-
-<p>
-  <code style="font-size:1.2em;">user@sunny:~$</code>
-  <span style="font-family:monospace; font-size:1.2em; background:#000; color:#0f0;"> █</span>
-</p>
+### 🧠 Fun Facts
+- 🐧 Linux fangirl and terminal gremlin  
+- 🛡️ Cybersecurity & hacking explorer (white hat vibes only)  
+- 🪙 Learning to build websites *and* bank accounts  
+- 🎸 Rock music fuels my code sessions  
 
 ---
 
@@ -55,12 +44,12 @@ Fun Facts
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sunnycc17&theme=purple&border_radius=10&date_format=M%20j)](https://git.io/streak-stats)
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sunnycc17&theme=radical&background=00000000&border=BC7AF9&stroke=BC7AF9&currStreakLabel=BC7AF9&fire=BC7AF9&ring=BC7AF9&currStreakNum=BC7AF9&sideNums=BC7AF9&sideLabels=BC7AF9&dates=BC7AF9&hide_border=false" />
+</div>
 
 ---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Made+with+Love%2C+Code+%26+Cuteness+%F0%9F%92%96;By+Sunny+the+Front-End+Fairy%F0%9F%A7%9A&center=true&width=500&height=30&color=BC7AF9">
 </p>
-
