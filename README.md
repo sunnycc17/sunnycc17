@@ -42,6 +42,13 @@
   <a href="https://sunnycc17.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-BC7AF9?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
+<p>
+  <a href="https://www.linkedin.com/in/kristina-vogli-9227042a6/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-BC7AF9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+
 ---
 
 <div align="center">
