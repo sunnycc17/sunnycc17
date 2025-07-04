@@ -22,18 +22,29 @@
 
 ---
 
-### 🌱 Currently working on:
-- 🪢 Building JumpRopeWithSunny — my fitness blog!
-- 🇸🇮 Learning Slovenian like a polyglot princess.
-- 🪄 Becoming a front-end fairy ✨
+<!-- Custom style using <pre> for monospace & block formatting -->
+<pre>
 
----
+Currently Working On
+---------------------
+▸ Building JumpRopeWithSunny — my fitness blog  
+▸ Learning Slovenian like a polyglot princess  
+▸ Becoming a front-end fairy ✨
 
-### 🧠 Fun Facts
-- 🐧 Linux fangirl and terminal gremlin
-- 🛡️ Cybersecurity & hacking explorer (white hat vibes only 😇)
-- 🪙 Learning to build websites *and* bank accounts
-- 🎸 Rock music fuels my code sessions
+
+Fun Facts
+---------
+▸ Linux fangirl and terminal gremlin  
+▸ Cybersecurity & hacking explorer (white hat vibes only)  
+▸ Learning to build websites *and* bank accounts  
+▸ Rock music fuels my code sessions
+
+</pre>
+
+<p>
+  <code style="font-size:1.2em;">user@sunny:~$</code>
+  <span style="font-family:monospace; font-size:1.2em; background:#000; color:#0f0;"> █</span>
+</p>
 
 ---
 
@@ -41,6 +52,11 @@
 <p>
   <a href="https://sunnycc17.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-BC7AF9?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sunnycc17&theme=purple&border_radius=10&date_format=M%20j)](https://git.io/streak-stats)
+
 
 ---
 
