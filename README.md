@@ -21,10 +21,7 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunnycodes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=sunnycc17&theme=dracula&margin-w=15&row=1)
 
 ---
 
