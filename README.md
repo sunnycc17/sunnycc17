@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Sunny ☀️</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Front-end+Dev+%F0%9F%92%BB;Jump+Rope+Queen+%F0%9F%91%B6;Always+Learning+%F0%9F%93%9A;Slovenian+in+Progress+%F0%9F%87%B8%F0%9F%87%AE&center=true&width=500&height=30&color=BC7AF9&vCenter=true">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Front-end+Dev+%F0%9F%92%BB;Linux+Enthusiast+%F0%9F%91%B6;Always+Learning+%F0%9F%93%9A;Slovenian+in+Progress+%F0%9F%87%B8%F0%9F%87%AE&center=true&width=500&height=30&color=BC7AF9&vCenter=true">
 </p>
 
 <div align="center">
@@ -23,9 +23,9 @@
 ---
 
 ### 🌱 Currently Working On
-- 🪢 Building **JumpRopeWithSunny** — my fitness blog  
-- 🇸🇮 Learning Slovenian like a polyglot princess  
-- 🪄 Becoming a front-end fairy ✨  
+- 🪢 Building projects  
+- 🇸🇮 Learning Slovenian
+- 🪄 Becoming a front-end pro  
 
 ---
 
@@ -48,12 +48,6 @@
   </a>
 </p>
 
-
----
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sunnycc17&theme=radical&background=00000000&border=BC7AF9&stroke=BC7AF9&currStreakLabel=BC7AF9&fire=BC7AF9&ring=BC7AF9&currStreakNum=BC7AF9&sideNums=BC7AF9&sideLabels=BC7AF9&dates=BC7AF9&hide_border=false" />
-</div>
 
 ---
 
