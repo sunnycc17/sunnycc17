@@ -21,7 +21,7 @@
 ---
 
 ### 🌱 Currently Learning
-- Building React & Vite projects  
+- Building React & Next projects  
 - Expanding front-end skills  
 - Slovenian language 🇸🇮  
 
